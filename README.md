@@ -1,7 +1,7 @@
 ### Hello there, I'm Aden Prince! 👋
 
-I am a Computer Science major at UIC graduating in May 2022.
+I am a Software Engineer at Relativity.
 
 Interests: Software Engineering, Computer Graphics, Game Development
 
-Technologies I am familiar with: C, C++, C#, Java, Python, Rust, Unity
+Technologies I am familiar with: C, C++, C#, Java, Python, Rust, Scala, Unity
